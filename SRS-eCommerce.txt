@@ -12,8 +12,3 @@ Details: PICTURE, NAME, CATEGORY, SUBCATEGORY, PRICE, UNITS, DESCRIPTION
 7. The order will be processed after the user makes payment successfully. 
 
 Ideal : The signup form will contain a USER BIRTHDATE FIELD which will be in the format DD-MM-YYYY and it is compulsory for the user to fill.
-
-
-(i) Functional
-(ii) Non-functional
-(iii) Stakeholder
